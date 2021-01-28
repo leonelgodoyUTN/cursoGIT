@@ -24,9 +24,13 @@ $git add .
 $git commit -m
 -------------
 
+COMO SUBIR A GITHUB
+1 ir a gihub-> create new repository
+2 pushear tu proyecto 
 
 
 
+/////////////////////////////////////////////////////
 UTILES
 
 ver listado de commits
@@ -37,6 +41,10 @@ $git log --oneline (para tomar el codigo pertinente)
 $git reset --hard 
 -------------------
 
-hacer "add ." + "commit"
-$git commit -ma "mensaje del commit"
+hacer "add ."+"commit" => "-am"
+$git commit -am "mensaje del commit"
 ---------------------
+
+modificar descripcion del commit VIM
+$git commit --amend (se abre el editor vim)
+:i  (enter)
