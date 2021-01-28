@@ -1,13 +1,16 @@
 <!doctype html>
 <html>
 <head>
-<title></title>
 <meta charset="utf-8">
-<style></style>
+<title></title>
+<lin href="css/estilos.css" rel="stylesheet" type="text/css">
+
+
 </head>
 
 <body>
-
+<h1>Today's Menu: Git & GitHub</h1>
+<p1>Stop suffering. Start using Git</p1>
 
 </body>
 </html>

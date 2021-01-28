@@ -1,0 +1,33 @@
+16:16 28/1/2021
+steps & commands
+	for Git & GitHub
+		Leonel Godoy
+
+1
+$git init
+----------------
+2 (muestra el seguimiento o no de los elementos de proyecto)
+$git status -s
+----------------
+3 add to staging area
+$git add index.php
+$git add .
+---------------
+4 confirmacion
+$git commit -m "descricion del commit"
+(opcional: tirar otro $git status -s para ver el seguimiento o no)
+--------------
+/*push?*/
+--------------
+cada vez que modifiques el codigo:
+$git add .
+$git commit -m
+
+
+
+
+
+UTILES
+
+ver listado de commits
+$git log --oneline
