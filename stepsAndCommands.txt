@@ -22,7 +22,7 @@ $git commit -m "descricion del commit"
 cada vez que modifiques el codigo:
 $git add .
 $git commit -m
-
+-------------
 
 
 
@@ -31,3 +31,12 @@ UTILES
 
 ver listado de commits
 $git log --oneline
+---------------------
+volver tu repositorio a una instantanea anterior (!!ELIMINA el trabajo posterior a la instantanea a la que retorna)
+$git log --oneline (para tomar el codigo pertinente)
+$git reset --hard 
+-------------------
+
+hacer "add ." + "commit"
+$git commit -ma "mensaje del commit"
+---------------------
